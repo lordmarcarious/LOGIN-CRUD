@@ -1,0 +1,26 @@
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\obj\Debug\net8.0-windows\LOGIN_CRUD.Form1.resources
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\obj\Debug\net8.0-windows\LOGIN_CRUD.Form2.resources
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\obj\Debug\net8.0-windows\LOGIN CRUD.csproj.GenerateResource.cache
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\obj\Debug\net8.0-windows\LOGIN CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\obj\Debug\net8.0-windows\LOGIN CRUD.AssemblyInfoInputs.cache
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\obj\Debug\net8.0-windows\LOGIN CRUD.AssemblyInfo.cs
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\obj\Debug\net8.0-windows\LOGIN CRUD.csproj.CoreCompileInputs.cache
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\obj\Debug\net8.0-windows\LOGIN CRUD.csproj.AssemblyReference.cache
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\obj\Debug\net8.0-windows\LOGIN_CRUD.Form3.resources
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\bin\Debug\net8.0-windows\LOGIN CRUD.exe
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\bin\Debug\net8.0-windows\LOGIN CRUD.deps.json
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\bin\Debug\net8.0-windows\LOGIN CRUD.runtimeconfig.json
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\bin\Debug\net8.0-windows\LOGIN CRUD.dll
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\bin\Debug\net8.0-windows\LOGIN CRUD.pdb
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\obj\Debug\net8.0-windows\LOGIN CRUD.csproj.Up2Date
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\obj\Debug\net8.0-windows\LOGIN CRUD.dll
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\obj\Debug\net8.0-windows\refint\LOGIN CRUD.dll
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\obj\Debug\net8.0-windows\LOGIN CRUD.pdb
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\obj\Debug\net8.0-windows\LOGIN CRUD.genruntimeconfig.cache
+C:\Users\palma\OneDrive - American International University-Bangladesh\Desktop\OPP 2 Lab 2\LOGIN CRUD\LOGIN CRUD\obj\Debug\net8.0-windows\ref\LOGIN CRUD.dll
